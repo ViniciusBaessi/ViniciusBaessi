@@ -11,13 +11,13 @@
   
 </div>
 
-
+![CursoemVideo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original .svg) 
 
 <div style="display: inline_block"><br>
 
 
 
-![CursoemVideo](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/) 
+
 
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain .svg">
 
