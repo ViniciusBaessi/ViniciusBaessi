@@ -12,7 +12,7 @@
 </div>
 
 ***
-Tecnologias que utilizo em meus estudos
+### Tecnologias que utilizo em meus estudos
 
 <div style="display: inline_block"><br>
 
