@@ -4,15 +4,16 @@
 - 📘  Estudando HTML e CSS.
 
 
+<div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
 
 
-<div align="center">
 
   <a href="https://github.com/viniciusbaessi">
   
   ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusbaessi&show_icons=true&theme=dracula)
   
-</div>
+
 
 ***
 ### Tecnologias que utilizo em meus estudos
