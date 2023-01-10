@@ -25,7 +25,7 @@
 
 <!-- Imagem das tecnologias -->
 ***
-### Tecnologias que utilizo em meus estudos. 🛠
+### **Tecnologias que utilizo em meus estudos.** 🛠
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -43,7 +43,7 @@
 
 <div> 
 
-### Acesse minhas redes clicando nos ícones abaixo: 😀
+### **Acesse minhas redes clicando nos ícones abaixo:** 😀
 
 <div style="display: inline_block"><br> <div
   <a href = "mailto:viniciusbaessi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
