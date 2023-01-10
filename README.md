@@ -11,11 +11,11 @@
   <a href="https://github.com/viniciusbaessi">
   
   ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusbaessi&show_icons=true&theme=dracula)
-  
+
 <!-- Imagem das tecnologias -->
 
 ***
-### Tecnologias que utilizo em meus estudos 🛠
+### Tecnologias que utilizo em meus estudos. 🛠
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
