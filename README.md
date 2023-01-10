@@ -10,7 +10,7 @@
 
   <a href="https://github.com/viniciusbaessi">
   
-  ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusbaessi&show_icons=true&theme=highcontrast)
+  ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusbaessi&show_icons=true&theme=dracula)
   
 </div>
 
