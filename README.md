@@ -18,7 +18,7 @@
   
 </div>
 
-
+![Contribution](https://activity-graph.herokuapp.com/graph?username=viniciusbaessi&theme=gotham&hide_border=true&area=true)
 
 <!-- Imagem das tecnologias -->
 ***
