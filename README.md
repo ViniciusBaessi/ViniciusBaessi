@@ -9,10 +9,9 @@
 
 *Tenho 22 anos, sou estudante de tecnologia me apofundando em desenvolvimento front-end. Em meu tempo livre gosto de sair, assistir filmes, animes e jogar vídeo game. Atualmente sou formado em MBA Data Science na USP/esalq e estou mergulhando na área de desenvolvimento.*
 
-<div style="display: inline_block"><br> <div
 
- # - 💻 *Estou me aplicando em desesnvolvimento. front-end.*
- #### - 📘 *Estudando HTML e CSS.*
+ ### - 💻 *Estou me aplicando em desesnvolvimento. front-end.*
+ ###  - 📘 *Estudando HTML e CSS.*
 
 
 
