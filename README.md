@@ -11,15 +11,15 @@
 
 <div style="display: inline_block"><br> <div
 
- # - 💻 Estou me aplicando em desesnvolvimento front-end.
+ # - 💻 Estou me aplicando em desesnvolvimento. front-end.
 
-#### - 📘  Estudando HTML e CSS.
+#### - 📘  Estudando HTML e CSS.*
 
 
 
 
 ***
-<div style="display: inline_block"><br> <div
+
 
 
 <!-- Status do github -->
