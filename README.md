@@ -1,4 +1,8 @@
+<!-- Animação azul final -->
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+<!-- Texto de apresentação -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Vinicius!+🖐;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
@@ -32,9 +36,7 @@
 <img align="center" alt="Vini-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 <img align="center" alt="Vini-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
-
-
-          
+         
 <!-- Meus contatos -->
 
 ***
@@ -49,12 +51,13 @@
 <div style="display: inline_block"><br> <div
 <div style="display: inline_block"><br> <div
 
-
+<!-- Contador -->
 
  <div align="center">
 <br><p align="centre"><b>Contador de visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{viniciusbaessi}/count.svg" /></p> 
 <br></div>
 
+<!-- Animação azul final -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
