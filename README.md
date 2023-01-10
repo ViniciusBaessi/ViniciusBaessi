@@ -1,4 +1,4 @@
-### Olá, me chamo Vinicius!
+### Olá, me chamo Vinicius! Sou estudante de tecnologia.
 
 - 💻 Estou me aplicando em front-end.
 - 📘  Estudando HTML e CSS.
