@@ -12,6 +12,8 @@
   
   ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusbaessi&show_icons=true&theme=react)
 
+  ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusbaessi&show_icons=true&theme=prussian)
+
 
 <!-- Imagem das tecnologias -->
 
