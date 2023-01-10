@@ -9,16 +9,19 @@
 
 *Tenho 22 anos, sou estudante de tecnologia me apofundando em desenvolvimento front-end. Em meu tempo livre gosto de sair, assistir filmes, animes e jogar vídeo game. Atualmente sou formado em MBA Data Science na USP/esalq e estou mergulhando na área de desenvolvimento.*
 
-***
 <div style="display: inline_block"><br> <div
-
-
-<!-- Texto sobre a área de estudo -->
 
 ### - 💻 *Estou me aplicando em desesnvolvimento front-end.*
 ### - 📘 *Estudando HTML e CSS.*
 
+***
+<div style="display: inline_block"><br> <div
+
+
 <!-- Status do github -->
+
+* ### **Meu status** 📉
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=viniciusbaessi&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Vinicius Baessi github stats" /> 
@@ -27,7 +30,7 @@
 
 <!-- Imagem das tecnologias -->
 ***
-### **Tecnologias que utilizo em meus estudos.** 🛠
+* ### **Tecnologias que utilizo em meus estudos.** 🛠
 <div style="display: inline_block"><br> <div
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
@@ -39,17 +42,13 @@
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
 
 
-
-
-
 <!-- Meus contatos -->
-
 
 ***
 
 <div> 
 
-### **Acesse minhas redes clicando nos ícones abaixo:** 😀
+* ### **Acesse minhas redes clicando nos ícones abaixo:** 😀
 
 <div style="display: inline_block"><br> <div
   <a href = "mailto:viniciusbaessi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
