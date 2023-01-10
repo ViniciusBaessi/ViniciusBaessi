@@ -13,8 +13,8 @@
 
 <!-- Texto sobre a área de estudo -->
 
-- 💻 *Estou me aplicando em desesnvolvimento front-end.*
-- 📘  *Estudando HTML e CSS.*
+## - 💻 *Estou me aplicando em desesnvolvimento front-end.*
+## - 📘 *Estudando HTML e CSS.*
 
 <!-- Status do github -->
 
