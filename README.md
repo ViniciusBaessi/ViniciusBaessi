@@ -11,11 +11,10 @@
   
 </div>
 
-![CursoemVideo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original .svg) 
+
+![texto](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hostgator.com.br%2Fblog%2Fo-que-e-o-angular%2F&psig=AOvVaw25nQpjbw7812FHohus1qSh&ust=1673447478905000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPjKycmbvfwCFQAAAAAdAAAAABAI)
 
 <div style="display: inline_block"><br>
-
-
 
 
 
