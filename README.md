@@ -15,11 +15,6 @@
   ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusbaessi&show_icons=true&theme=react)
 
 
-  <div style="display: inline_block"
-    <img align="right" height="100 alt="coding-time" src="code.gif">
-    <div
-
-
 
 <!-- Imagem das tecnologias -->
 
