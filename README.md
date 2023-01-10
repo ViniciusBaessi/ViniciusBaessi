@@ -10,9 +10,10 @@
 
   <a href="https://github.com/viniciusbaessi">
   
-  ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusbaessi&show_icons=true&theme=react)
 
-  ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusbaessi&show_icons=true&theme=prussian)
+
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusbaessi&show_icons=true&theme=react"/>
+  
 
 
 <!-- Imagem das tecnologias -->
