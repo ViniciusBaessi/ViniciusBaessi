@@ -4,32 +4,29 @@
 - 📘  Estudando HTML e CSS.
 
 
-<div style="display: inline_block"><br>
-<div style="display: inline_block"><br>
+<div style="display: inline_block"><br> <div
 
-
+<!-- Status do github -->
 
   <a href="https://github.com/viniciusbaessi">
   
   ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusbaessi&show_icons=true&theme=dracula)
   
 
+<!-- Imagem das tecnologias -->
 
 ***
 ### Tecnologias que utilizo em meus estudos
 
 <div style="display: inline_block"><br>
-
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Vini-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div><br>
 
 
-</div>
-
-
-
+<!-- Meus contatos -->
 
 ***
 
