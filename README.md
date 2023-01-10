@@ -18,8 +18,6 @@
   
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=viniciusbaessi&theme=gotham&hide_border=true&area=true)
-
 <!-- Imagem das tecnologias -->
 ***
 ### Tecnologias que utilizo em meus estudos. 🛠
@@ -30,6 +28,9 @@
 <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Vini-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
+
+<img align="center" alt="Vini-Github" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+
 </div>
 
 
