@@ -11,9 +11,8 @@
 
 <div style="display: inline_block"><br> <div
 
- # - 💻 Estou me aplicando em desesnvolvimento. front-end.
-
-#### - 📘  Estudando HTML e CSS.*
+ # - 💻 *Estou me aplicando em desesnvolvimento. front-end.*
+ #### - 📘 *Estudando HTML e CSS.*
 
 
 
