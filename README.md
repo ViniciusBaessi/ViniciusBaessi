@@ -19,19 +19,10 @@
 
 * ### **Meu status** 📉
 
+<div style="display: inline_block"><br> <div
 
-![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusbaessi&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=00000000&hide_border=true)
+![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusbaessi&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=00000000)
 
-
-![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusbaessi&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=00000000&hide_border=true")
-
-&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
-
-&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"
-
-&hide=stars,commits,prs,issues,contribs
-
-&count_private=true
 
 <!-- Imagem das tecnologias -->
 ***
