@@ -4,7 +4,7 @@
 
 <!-- Texto de apresentação -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Vinicius!+🖐;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Apresentação](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Vinicius!+🖐;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
 
 *Tenho 22 anos, sou estudante de tecnologia me aprofundando em desenvolvimento front-end. Em meu tempo livre gosto de sair, assistir filmes, animes e jogar vídeo game. Atualmente sou formado em MBA Data Science na USP/esalq e estou mergulhando na área de desenvolvimento.*
