@@ -23,7 +23,7 @@
 
 ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusbaessi&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=00000000)
 
-[![Vinicius Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbaessi&layout=compact)](https://github.com/viniciusbaessi/github-readme-stats)
+![Vinicius Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbaessi&layout=compact&title_color=00bfbf&text_color=00bfbf&bg_color=00000000)
 
 
 <!-- Imagem das tecnologias -->
