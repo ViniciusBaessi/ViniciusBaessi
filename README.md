@@ -23,6 +23,7 @@
 
 <div align="left">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=viniciusbaessi&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=00000000" /> 
+  
  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbaessi&layout=compact&title_color=00bfbf&text_color=00bfbf&bg_color=00000000" />
   </div>
 
