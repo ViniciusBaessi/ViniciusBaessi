@@ -9,7 +9,7 @@
 
 *Tenho 22 anos, sou estudante de tecnologia me aprofundando em desenvolvimento front-end. Em meu tempo livre gosto de sair, assistir filmes, animes e jogar vídeo game. Atualmente sou formado em MBA Data Science na USP/esalq e estou mergulhando na área de desenvolvimento.*
 
-<!-- Foi utulizada essa quantidade de Hashtags (#) para adequação ao tamanho da fonte em markdown. -->
+<!-- Foi utilizada essa quantidade de Hashtags (#) para adequação ao tamanho da fonte em markdown. -->
  #### - 💻 *Estou me aplicando em desesnvolvimento. front-end.*
  ####  - 📘 *Estudando HTML e CSS.*
 
