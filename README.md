@@ -21,10 +21,16 @@
 
 <div style="display: inline_block"><br> <div
 
-https://vinicius-baessi-viniciusbaessi.vercel.app/
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+
+
+
 <div align="center">  
-  <img width="49%" height="195px" src="https://vinicius-baessi-viniciusbaessi.vercel.app/api?username=viniciusbaessi&show_icons=true&hide=stars,prs,issues,contribs&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=00000000&count_private" vspace="5" hspace="5" /> 
- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbaessi&layout=compact&title_color=00bfbf&text_color=00bfbf&bg_color=00000000&count_private"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=viniciusbaessi&show_icons=true&hide=stars,prs,issues,contribs&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=00000000&count_private" vspace="5" hspace="5" /> 
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbaessi&layout=compact&title_color=00bfbf&text_color=00bfbf&bg_color=00000000&count_private" />
   </div>
 
 <!-- Imagem das tecnologias -->
