@@ -23,7 +23,7 @@
 
 
 
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=viniciusbaessi&how_icons=true&hide=stars,prs,issues,contribs&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=00000000&count_private)
 
 
 
