@@ -14,7 +14,7 @@
  ####  - 📘 *Estudando HTML e CSS.*
 
 ***
-
+https://vinicius-baessi-7m4os0cmb-viniciusbaessi.vercel.app/
 <!-- Status do github -->
 
 * ### **Minha atividade** 📉
@@ -22,7 +22,7 @@
 <div style="display: inline_block"><br> <div
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=viniciusbaessi&show_icons=true&hide=stars,prs,issues,contribs&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=00000000&count_private" vspace="5" hspace="5" /> 
+  <img width="49%" height="195px" src="https://vinicius-baessi-7m4os0cmb-viniciusbaessi.vercel.apps" vspace="5" hspace="5" /> 
  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbaessi&layout=compact&title_color=00bfbf&text_color=00bfbf&bg_color=00000000&count_private" />
   </div>
 
