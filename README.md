@@ -24,11 +24,12 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=viniciusbaessi&show_icons=true&hide=stars,prs,issues,contribs&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=00000000&count_private" vspace="5" hspace="5" /> 
  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbaessi&layout=compact&title_color=00bfbf&text_color=00bfbf&bg_color=00000000&count_private" />
-  </div>
+</div>
 
 <!-- Imagem das tecnologias -->
 ***
 * ### **Tecnologias que utilizo em meus estudos.** ⚡
+* 
 <div style="display: inline_block"><br> <div
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
