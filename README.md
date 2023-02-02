@@ -11,7 +11,7 @@
 
 <!-- Foi utilizada essa quantidade de Hashtags (#) para adequação ao tamanho da fonte em markdown. -->
  #### - 💻 *Estou me aplicando em desenvolvimento. front-end.*
- ####  - 📘 *Estudando Frameworks CSS (bootstrap e tailwind).*
+ ####  - 📘 *Estudando Javascript*
 
 ***
 
