@@ -62,10 +62,9 @@
 
 <!-- Contador -->
 
- <div align="center">
-<br><p align="centre"><b>Contador de visitas</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{viniciusbaessi}/count.svg" /></p> 
-<br></div>
+<div align="center">
+ <br><p align="centre"><b>Contador de visitas</b></p>  
+ <p align="center"><img align="center" src="https://profile-counter.glitch.me/{viniciusbaessi}/count.svg" /></p></div>
 
 <!-- Animação azul final -->
 
