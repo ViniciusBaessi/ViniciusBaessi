@@ -57,6 +57,7 @@
    <a href="https://www.instagram.com/vinicius_baessi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>
 
+
 <div style="display: inline_block"><br> <div>
 
 
@@ -66,6 +67,8 @@
   <br><p align="centre"><b>Contador de visitas</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{viniciusbaessi}/count.svg" /></p>
 </div>
+ 
+ 
 
 <!-- Animação azul final -->
 
