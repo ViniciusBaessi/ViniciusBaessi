@@ -26,6 +26,7 @@
  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbaessi&layout=compact&title_color=00bfbf&text_color=00bfbf&bg_color=00000000&count_private" />
 </div>
 
+
 <!-- Imagem das tecnologias -->
 ***
 * ### **Tecnologias que utilizo em meus estudos.** ⚡
@@ -68,7 +69,7 @@
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{viniciusbaessi}/count.svg" /></p>
 </div>
  
- 
+ <br>
 
 <!-- Animação azul final -->
 
