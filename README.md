@@ -6,13 +6,14 @@
 
 [![Apresentação](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Vinicius!+🖐;Seja+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 
-
+<!--
 *Tenho 22 anos, sou estudante de tecnologia e atualmente sou formado em MBA Data Science na USP/esalq, focando em desenvolvimento front-end. Em meu tempo livre costumo sair, assistir filmes, animes, jogar vídeo game e estudar.*
+-->
 
-<!-- Foi utilizada essa quantidade de Hashtags (#) para adequação ao tamanho da fonte em markdown. -->
- #### - 💻 *Estou me aplicando em desenvolvimento. front-end.*
+<!-- Foi utilizada essa quantidade de Hashtags (#) para adequação ao tamanho da fonte em markdown. 
+ #### - 💻 *Estou me aplicando em desenvolvimento. back-end.*
  ####  - 📘 *Estudando Javascript*
-
+-->
 ***
 
 <!-- Status do github -->
