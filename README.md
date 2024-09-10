@@ -24,7 +24,7 @@
 
 <div align="center">  
   
- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbaessi&layout=compact&title_color=00bfbf&text_color=00bfbf&bg_color=00000000&count_private" />
+ <img width="80%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbaessi&layout=compact&title_color=00bfbf&text_color=00bfbf&bg_color=00000000&count_private" />
 </div>
 
 
